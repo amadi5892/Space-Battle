@@ -1,0 +1,6 @@
+.window {
+    width: 100vw;
+    height: 100vh;
+    /* https://unsplash.com/photos/fUnfEz3VLv4 */
+    background: url('Apendex/Images/galaxy.jpeg') 100% fixed;
+}
